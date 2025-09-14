@@ -23,5 +23,3 @@ This project demonstrates how to use **Groq APIs (OpenAI SDK compatible)** to:
 - No frameworks: only **Python + openai (Groq SDK)**
 
 ---
-
-## 📂 Repository Structure
